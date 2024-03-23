@@ -8,7 +8,7 @@ Python is a high-level, interpreted programming language known for its simplicit
 
 ## Index
 
-1. [File Classification Project]
+1. File Classification Project
    
 ### Contributors
 - Darshan Patil
